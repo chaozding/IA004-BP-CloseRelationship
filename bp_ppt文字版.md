@@ -310,6 +310,7 @@ typora-root-url: pic
       ![1555035984374](https://github.com/chaozding/IA004-BP-CloseRelationship/blob/master/pic/1555035984374.png)
 
   - 情侣互动
+  asdfadsf
 
     - 爱情银行、小恩爱、情侣空间，萌萌哒的细分领域，市场份额第一的爱情银行营销（33%）出位，已被下架整改
 
